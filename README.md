@@ -1,11 +1,10 @@
 ABOUT * Data Structure 605.202 Lab 2
+
 AUTHOR * D.G.
 
 Java Version * JDK 1.8
-IDE * Eclipse Java EE
 
-Source code can be found in src folder 
-Compiled code can be found in bin folder
+IDE * Eclipse Java EE
 
 DETAILED USAGE * java -cp bin MatrixIO filename_input filename_output
 
