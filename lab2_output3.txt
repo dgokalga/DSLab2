@@ -1,0 +1,1 @@
+Error: Matrix must be NxN for N = {1:6}

@@ -1,0 +1,57 @@
+For matrix: 
+1 2 3 4 5 
+2 3 4 -5 6 
+1 2 3 4 5 
+0 2 3 -4 5 
+5 4 3 2 1 
+The determinant is: 0
+
+For matrix: 
+-1 -2 -3 
+2 3 4 
+6 7 8 
+The determinant is: 0
+
+For matrix: 
+-5 
+The determinant is: -5
+
+For matrix: 
+9 10 
+1 2 
+The determinant is: 0
+
+For matrix: 
+1 1 1 1 1 1 
+2 2 2 2 2 2 
+3 3 3 3 3 3 
+4 4 4 4 4 4 
+5 5 5 5 5 5 
+6 6 6 6 6 6 
+The determinant is: 0
+
+For matrix: 
+0 2 -5 8 2 10 
+-4 7 5 -2 15 20 
+1 1 1 1 1 1 
+-1 -1 -1 -1 -1 -1 
+0 7 8 9 20 31 
+-2 -7 0 -4 9 3 
+The determinant is: 0
+
+For matrix: 
+10 11 12 
+13 14 15 
+16 17 18 
+The determinant is: 0
+
+For matrix: 
+300 
+The determinant is: 300
+
+For matrix: 
+4 5 -1 
+-5 2 4 
+7 -9 3 
+The determinant is: 0
+
